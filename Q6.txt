@@ -1,0 +1,7 @@
+6 - Questão:
+O que você entende sobre React? (Questão subjetiva, faça uma descrição do que você entendeu sobre
+os conceitos e arquitetura da biblioteca, sinta-se a vontade para pesquisar em qualquer fonte.)
+
+React
+É uma biblioteca JavaScript open source (código aberto) para criar interfaces de páginas web. Alguns sites que utilizam o React, como Netflix, Walmart;
+Recentemente em 2015 o Facebook anunciou um módulo chamado React Native, que em conjunto com o React, possibilita o desenvolvimento de aplicativos para Android e iOS.
